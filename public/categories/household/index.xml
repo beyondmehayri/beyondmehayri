@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Household on Nataliia Onyshchenko</title>
-    <link>//localhost:1313/categories/household/</link>
+    <link>http://localhost:1313/beyondmehayri/categories/household.html</link>
     <description>Recent content in Household on Nataliia Onyshchenko</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>n14.onyshchenko@gmail.com (Nataliia Onyshchenko)</managingEditor>
     <webMaster>n14.onyshchenko@gmail.com (Nataliia Onyshchenko)</webMaster>
     <copyright>© Nataliia Onyshchenko</copyright>
-    <lastBuildDate>Sat, 01 Apr 2023 00:00:00 +0200</lastBuildDate><atom:link href="//localhost:1313/categories/household/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Apr 2023 00:00:00 +0200</lastBuildDate><atom:link href="http://localhost:1313/beyondmehayri/categories/household/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mirs</title>
-      <link>//localhost:1313/projects/mirs/</link>
+      <link>http://localhost:1313/beyondmehayri/projects/mirs.html</link>
       <pubDate>Sat, 01 Apr 2023 00:00:00 +0200</pubDate><author>n14.onyshchenko@gmail.com (Nataliia Onyshchenko)</author>
-      <guid>//localhost:1313/projects/mirs/</guid><media:content url="//localhost:1313/projects/mirs/upload-03700dbe-219e-4a84-ada6-442afc7509b8_hu17809541125024211573.webp" type="image/jpeg"/>
+      <guid>http://localhost:1313/beyondmehayri/projects/mirs.html</guid><media:content url="http://localhost:1313/beyondmehayri/projects/mirs/upload-03700dbe-219e-4a84-ada6-442afc7509b8_hu17809541125024211573.webp" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;//localhost:1313/projects/mirs/upload-03700dbe-219e-4a84-ada6-442afc7509b8_hu17809541125024211573.webp&quot; /&gt;
+          &lt;img src=&quot;http://localhost:1313/beyondmehayri/projects/mirs/upload-03700dbe-219e-4a84-ada6-442afc7509b8_hu17809541125024211573.webp&quot; /&gt;
           &lt;p&gt;&lt;div class=&#34;h3-h4-wrapper&#34;&gt;
     &lt;h3&gt;
         function: ⚙️ household &lt;br&gt;

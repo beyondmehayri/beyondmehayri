@@ -2,71 +2,71 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/projects/</loc>
+    <loc>http://localhost:1313/beyondmehayri/projects.html</loc>
     <lastmod>2023-04-01T00:00:00+02:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/bakery/</loc>
+    <loc>http://localhost:1313/beyondmehayri/categories/bakery.html</loc>
     <lastmod>2023-04-01T00:00:00+02:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/bank/</loc>
+    <loc>http://localhost:1313/beyondmehayri/categories/bank.html</loc>
     <lastmod>2023-04-01T00:00:00+02:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/cafe/</loc>
+    <loc>http://localhost:1313/beyondmehayri/categories/cafe.html</loc>
     <lastmod>2023-04-01T00:00:00+02:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/chain/</loc>
+    <loc>http://localhost:1313/beyondmehayri/categories/chain.html</loc>
     <lastmod>2023-04-01T00:00:00+02:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/projects/chanta/</loc>
+    <loc>http://localhost:1313/beyondmehayri/projects/chanta.html</loc>
     <lastmod>2023-04-01T00:00:00+02:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/projects/evos/</loc>
+    <loc>http://localhost:1313/beyondmehayri/projects/evos.html</loc>
     <lastmod>2023-04-01T00:00:00+02:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/homeware/</loc>
+    <loc>http://localhost:1313/beyondmehayri/categories/homeware.html</loc>
     <lastmod>2023-04-01T00:00:00+02:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/household/</loc>
+    <loc>http://localhost:1313/beyondmehayri/categories/household.html</loc>
     <lastmod>2023-04-01T00:00:00+02:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/projects/kyivstar/</loc>
+    <loc>http://localhost:1313/beyondmehayri/projects/kyivstar.html</loc>
     <lastmod>2023-04-01T00:00:00+02:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/projects/mirs/</loc>
+    <loc>http://localhost:1313/beyondmehayri/projects/mirs.html</loc>
     <lastmod>2023-04-01T00:00:00+02:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/projects/oisome/</loc>
+    <loc>http://localhost:1313/beyondmehayri/projects/oisome.html</loc>
     <lastmod>2023-04-01T00:00:00+02:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/pharmacy/</loc>
+    <loc>http://localhost:1313/beyondmehayri/categories/pharmacy.html</loc>
     <lastmod>2023-04-01T00:00:00+02:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/projects/podorozhnyk/</loc>
+    <loc>http://localhost:1313/beyondmehayri/projects/podorozhnyk.html</loc>
     <lastmod>2023-04-01T00:00:00+02:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/projects/promenu/</loc>
+    <loc>http://localhost:1313/beyondmehayri/projects/promenu.html</loc>
     <lastmod>2023-04-01T00:00:00+02:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/restaurant/</loc>
+    <loc>http://localhost:1313/beyondmehayri/categories/restaurant.html</loc>
     <lastmod>2023-04-01T00:00:00+02:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/retail/</loc>
+    <loc>http://localhost:1313/beyondmehayri/categories/retail.html</loc>
     <lastmod>2023-04-01T00:00:00+02:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/store/</loc>
+    <loc>http://localhost:1313/beyondmehayri/categories/store.html</loc>
     <lastmod>2023-04-01T00:00:00+02:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/telecommunication/</loc>
+    <loc>http://localhost:1313/beyondmehayri/categories/telecommunication.html</loc>
     <lastmod>2023-04-01T00:00:00+02:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/projects/ukrexim/</loc>
+    <loc>http://localhost:1313/beyondmehayri/projects/ukrexim.html</loc>
     <lastmod>2023-04-01T00:00:00+02:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/</loc>
+    <loc>http://localhost:1313/beyondmehayri/</loc>
     <lastmod>2023-04-01T00:00:00+02:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/about/</loc>
+    <loc>http://localhost:1313/beyondmehayri/about.html</loc>
   </url><url>
-    <loc>//localhost:1313/imprint/</loc>
+    <loc>http://localhost:1313/beyondmehayri/imprint.html</loc>
   </url>
 </urlset>

@@ -9,6 +9,7 @@ title = "Nataliia Onyshchenko"
 baseURL = "https://beyondmehayri.github.io/beyondmehayri/"
 relativeURLs = true
 canonifyURLs = true
+uglyURLs = true
 
 [params]
   defaultTheme = "dark"
