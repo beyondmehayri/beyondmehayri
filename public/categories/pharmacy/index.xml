@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pharmacy on Nataliia Onyshchenko</title>
+    <link>//localhost:1313/categories/pharmacy/</link>
+    <description>Recent content in Pharmacy on Nataliia Onyshchenko</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>n14.onyshchenko@gmail.com (Nataliia Onyshchenko)</managingEditor>
+    <webMaster>n14.onyshchenko@gmail.com (Nataliia Onyshchenko)</webMaster>
+    <copyright>© Nataliia Onyshchenko</copyright>
+    <lastBuildDate>Sat, 01 Apr 2023 00:00:00 +0200</lastBuildDate><atom:link href="//localhost:1313/categories/pharmacy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Podorozhnyk</title>
+      <link>//localhost:1313/projects/podorozhnyk/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0200</pubDate><author>n14.onyshchenko@gmail.com (Nataliia Onyshchenko)</author>
+      <guid>//localhost:1313/projects/podorozhnyk/</guid><media:content url="//localhost:1313/projects/podorozhnyk/upload-0b313b80-5f21-4d35-a9a4-0339ccf9508b_hu3892840232105191411.webp" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/projects/podorozhnyk/upload-0b313b80-5f21-4d35-a9a4-0339ccf9508b_hu3892840232105191411.webp&quot; /&gt;
+          &lt;p&gt;&lt;div class=&#34;h3-h4-wrapper&#34;&gt;
+  &lt;h3&gt;
+    function: ⚙️ pharmacy&lt;br&gt;
+    location: 📍 Lviv, Ukraine &lt;br&gt;
+    area: 📐 30 sq.m.  &lt;br&gt;
+    status: ⌛  implemented &lt;br&gt;
+    year: 📅 2021 &lt;br&gt;&lt;br&gt;
+  &lt;/h3&gt;
+  &lt;h4&gt;
+    The pharmacy has a new service model. Before checkout merchandising was a barrier between a customer and a seller. The seller should go to another room to bring a medicine or to turn his back to a client. We created a new service model a &#34;library&#34;. A seller doesn&#39;t need to leave a client or turn his back. The whole medicine are in the &#34;library&#34;. The client sees the seller, the seller doesn&#39;t turn his back and there is no barriers anymore. The whole cashdesk merchandising is nearby. The choreography is that merchandising of the cashdesk leads to the cashdesk. A client has time to think and choose.
+  &lt;/h4&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+        </description></item>
+  </channel>
+</rss>

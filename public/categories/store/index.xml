@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Store on Nataliia Onyshchenko</title>
+    <link>//localhost:1313/categories/store/</link>
+    <description>Recent content in Store on Nataliia Onyshchenko</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>n14.onyshchenko@gmail.com (Nataliia Onyshchenko)</managingEditor>
+    <webMaster>n14.onyshchenko@gmail.com (Nataliia Onyshchenko)</webMaster>
+    <copyright>© Nataliia Onyshchenko</copyright>
+    <lastBuildDate>Sat, 01 Apr 2023 00:00:00 +0200</lastBuildDate><atom:link href="//localhost:1313/categories/store/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Promenu</title>
+      <link>//localhost:1313/projects/promenu/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0200</pubDate><author>n14.onyshchenko@gmail.com (Nataliia Onyshchenko)</author>
+      <guid>//localhost:1313/projects/promenu/</guid><media:content url="//localhost:1313/projects/promenu/upload-5b426ad0-fbec-42f1-b965-770ab6a32824_hu2362260965127819211.webp" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/projects/promenu/upload-5b426ad0-fbec-42f1-b965-770ab6a32824_hu2362260965127819211.webp&quot; /&gt;
+          &lt;p&gt;&lt;div class=&#34;h3-h4-wrapper&#34;&gt;
+  &lt;h3&gt;
+    function: ⚙️ homeware store &lt;br&gt;
+    location: 📍 Kyiv, Ukraine &lt;br&gt;
+    area: 📐 120, 130 sq.m.  &lt;br&gt;
+    status: ⌛ implemented &lt;br&gt;
+    year: 📅 2019 &lt;br&gt;&lt;br&gt;
+  &lt;/h3&gt;
+  &lt;h4&gt;
+    A store should give wow effect, a customer journey should be interesting and a client should get not only goods and survice, but also emotions. All of this has been realised. The store has active kitchen for master classes, virtual shelf for buying online and boards with information about goods (history of a brand, how to use etc.). The products are well lit, ergonomically displayed and have conditions for attractive merchandising. Depending on the color of the product, the furniture on the background is somewhere dark, and somewhere light, in order to better emphasize the product.
+  &lt;/h4&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+        </description></item>
+  </channel>
+</rss>

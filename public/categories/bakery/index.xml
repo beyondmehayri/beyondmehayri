@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bakery on Nataliia Onyshchenko</title>
+    <link>//localhost:1313/categories/bakery/</link>
+    <description>Recent content in Bakery on Nataliia Onyshchenko</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>n14.onyshchenko@gmail.com (Nataliia Onyshchenko)</managingEditor>
+    <webMaster>n14.onyshchenko@gmail.com (Nataliia Onyshchenko)</webMaster>
+    <copyright>© Nataliia Onyshchenko</copyright>
+    <lastBuildDate>Sat, 01 Apr 2023 00:00:00 +0200</lastBuildDate><atom:link href="//localhost:1313/categories/bakery/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chanta</title>
+      <link>//localhost:1313/projects/chanta/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0200</pubDate><author>n14.onyshchenko@gmail.com (Nataliia Onyshchenko)</author>
+      <guid>//localhost:1313/projects/chanta/</guid><media:content url="//localhost:1313/projects/chanta/1_hu6113213973936630692.webp" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;//localhost:1313/projects/chanta/1_hu6113213973936630692.webp&quot; /&gt;
+          &lt;p&gt;&lt;div class=&#34;h3-h4-wrapper&#34;&gt;
+  &lt;h3&gt;
+    function: ⚙️ bakery, cafe&lt;br&gt;
+    location: 📍 Kyiv, Ukraine &lt;br&gt;
+    area: 📐 40, 35 and 12 sq.m.  &lt;br&gt;
+    status: ⌛ concept &lt;br&gt;
+    year: 📅 2020 &lt;br&gt;&lt;br&gt;
+  &lt;/h3&gt;
+  &lt;h4&gt;
+    The desire of a client was to have cozy, attractive and modern bakery with new culture of eating bread. The service model includes two scenarios. The first one is quick, &#34;to go&#34; with self service. You can buy frozen bread and finish baking at home. Other snacks and drinks are also available with payment on the &#34;self service line&#34;. The second scenario is a usual one, when talk with a seller, buy, sit inside and meet with your friends. Here are two variants of design . Red one is rethinking and modernisation of classical boulangerie in Paris. Usually they had red or blue design. Spherical lamps add coziness and atmosphere of last century, althouth look modern nowadays
+  &lt;/h4&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+        </description></item>
+  </channel>
+</rss>
