@@ -4,7 +4,7 @@ description2: I work since 2017 and I like to create functional and attractive h
 #lastmod: 2023-07-05
 title: Welcome to my Portfolio
 profilePicture: "/images/profile.jpg"
-#featured_image:  # default: first image in this directory
+# featured_image:  # default: first image in this directory
 # featured_image on the home page is used for OpenGraph cards, etc.
 menus:
   main:
